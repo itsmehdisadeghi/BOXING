@@ -1,0 +1,6 @@
+{
+  "name": "Kinetix Ring — رینگ لمس",
+  "description": "First-person 3D webcam hand-tracked boxing simulator and interactive 3D physics sandbox.",
+  "requestFramePermissions": ["camera"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
